@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# nRF build artifacts
+build/
+out/
+*.hex
+*.elf
+
+# Mac
+.DS_Store
+
+# Data
+ml/sample_images/*
